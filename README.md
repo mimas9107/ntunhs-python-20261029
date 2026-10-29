@@ -1,2 +1,2 @@
 # 2026-10-29 project init.
-local change.
+Edited a new line in Github webpage interface.
