@@ -6,8 +6,10 @@ readme = "README.md"
 authors = [
     { name = "mimas9107", email = "mimas9107@gmail.com" }
 ]
-requires-python = ">=3.11"
-dependencies = []
+requires-python = ">=3.10"
+dependencies = [
+    "requests>=2.34.2",
+]
 
 [project.scripts]
 ntunhs-python-20261029 = "ntunhs_python_20261029:main"
